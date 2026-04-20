@@ -192,24 +192,24 @@ Cách mạng Tháng Tám:
 Từ thắng lợi vĩ đại của Cách mạng Tháng Tám năm 1945, Đảng ta đã đúc kết được 4 bài học kinh nghiệm cơ bản, mang giá trị lý luận và thực tiễn sâu sắc:
 
 **Bài học thứ nhất: Về chỉ đạo chiến lược**
-Phải luôn giương cao ngọn cờ giải phóng dân tộc, kiên quyết đặt nhiệm vụ giải phóng dân tộc lên hàng đầu.
-Giải quyết đúng đắn mối quan hệ giữa hai nhiệm vụ: độc lập dân tộc và cách mạng ruộng đất. Trong Cách mạng Tháng Tám, Đảng đã linh hoạt gác lại khẩu hiệu cách mạng ruộng đất, chỉ chủ trương tịch thu ruộng đất của đế quốc và Việt gian.
-Nhờ đó, Đảng đã tập trung giải quyết thành công mâu thuẫn chủ yếu nhất lúc bấy giờ là mâu thuẫn giữa toàn thể dân tộc Việt Nam với đế quốc, phát xít và tay sai.
+- Phải luôn giương cao ngọn cờ giải phóng dân tộc, kiên quyết đặt nhiệm vụ giải phóng dân tộc lên hàng đầu.
+- Giải quyết đúng đắn mối quan hệ giữa hai nhiệm vụ: độc lập dân tộc và cách mạng ruộng đất. Trong Cách mạng Tháng Tám, Đảng đã linh hoạt gác lại khẩu hiệu cách mạng ruộng đất, chỉ chủ trương tịch thu ruộng đất của đế quốc và Việt gian.
+- Nhờ đó, Đảng đã tập trung giải quyết thành công mâu thuẫn chủ yếu nhất lúc bấy giờ là mâu thuẫn giữa toàn thể dân tộc Việt Nam với đế quốc, phát xít và tay sai.
 
 **Bài học thứ hai: Về xây dựng lực lượng**
-Dựa trên cơ sở khối liên minh công nông làm nền tảng vững chắc, cần khơi dậy mạnh mẽ tinh thần dân tộc trong mọi tầng lớp nhân dân.
-Tập hợp rộng rãi mọi lực lượng yêu nước trong một mặt trận dân tộc thống nhất. Khối đại đoàn kết toàn dân tộc được tổ chức qua Mặt trận Việt Minh chính là một điển hình thành công của Đảng.
-Việc quy tụ lực lượng này không chỉ huy động toàn dân tộc lên trận địa cách mạng mà còn góp phần triệt để phân hóa, cô lập cao độ kẻ thù, lôi kéo các tầng lớp trung gian ngả về phía cách mạng.
+- Dựa trên cơ sở khối liên minh công nông làm nền tảng vững chắc, cần khơi dậy mạnh mẽ tinh thần dân tộc trong mọi tầng lớp nhân dân.
+- Tập hợp rộng rãi mọi lực lượng yêu nước trong một mặt trận dân tộc thống nhất. Khối đại đoàn kết toàn dân tộc được tổ chức qua Mặt trận Việt Minh chính là một điển hình thành công của Đảng.
+- Việc quy tụ lực lượng này không chỉ huy động toàn dân tộc lên trận địa cách mạng mà còn góp phần triệt để phân hóa, cô lập cao độ kẻ thù, lôi kéo các tầng lớp trung gian ngả về phía cách mạng.
 
 **Bài học thứ ba: Về phương pháp cách mạng**
-Nắm vững quan điểm bạo lực cách mạng của quần chúng. Ra sức xây dựng, phát triển vững chắc cả lực lượng chính trị và lực lượng vũ trang.
-Kết hợp chặt chẽ giữa đấu tranh chính trị với đấu tranh vũ trang, tiến hành chiến tranh du kích cục bộ và khởi nghĩa từng phần ở những nơi có điều kiện để làm đòn bẩy.
-Từ đó, tiến lên chớp đúng thời cơ "ngàn năm có một", phát động tổng khởi nghĩa đồng loạt ở cả nông thôn và thành thị, giành chính quyền trên toàn quốc một cách nhanh gọn, triệt để.
+- Nắm vững quan điểm bạo lực cách mạng của quần chúng. Ra sức xây dựng, phát triển vững chắc cả lực lượng chính trị và lực lượng vũ trang.
+- Kết hợp chặt chẽ giữa đấu tranh chính trị với đấu tranh vũ trang, tiến hành chiến tranh du kích cục bộ và khởi nghĩa từng phần ở những nơi có điều kiện để làm đòn bẩy.
+- Từ đó, tiến lên chớp đúng thời cơ "ngàn năm có một", phát động tổng khởi nghĩa đồng loạt ở cả nông thôn và thành thị, giành chính quyền trên toàn quốc một cách nhanh gọn, triệt để.
 
 **Bài học thứ tư: Về xây dựng Đảng**
-Phải xây dựng một Đảng cách mạng tiên phong của giai cấp công nhân, nhân dân lao động và toàn dân tộc Việt Nam. Đảng phải tuyệt đối trung thành với lợi ích giai cấp và dân tộc, gắn bó máu thịt với nhân dân.
-Vận dụng sáng tạo và phát triển lý luận Mác - Lênin cùng tư tưởng Hồ Chí Minh vào thực tiễn Việt Nam để đề ra đường lối chính trị đúng đắn.
-Đặc biệt chú trọng xây dựng Đảng vững mạnh ở cấp chiến lược của Trung ương, đồng thời phát huy cao độ tính chủ động, linh hoạt và sáng tạo của các cấp ủy, đảng bộ địa phương trong việc thực hiện đường lối khởi nghĩa.
+- Phải xây dựng một Đảng cách mạng tiên phong của giai cấp công nhân, nhân dân lao động và toàn dân tộc Việt Nam. Đảng phải tuyệt đối trung thành với lợi ích giai cấp và dân tộc, gắn bó máu thịt với nhân dân.
+- Vận dụng sáng tạo và phát triển lý luận Mác - Lênin cùng tư tưởng Hồ Chí Minh vào thực tiễn Việt Nam để đề ra đường lối chính trị đúng đắn.
+- Đặc biệt chú trọng xây dựng Đảng vững mạnh ở cấp chiến lược của Trung ương, đồng thời phát huy cao độ tính chủ động, linh hoạt và sáng tạo của các cấp ủy, đảng bộ địa phương trong việc thực hiện đường lối khởi nghĩa.
 
 ### KẾT LUẬN
 

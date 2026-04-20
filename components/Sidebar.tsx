@@ -8,7 +8,7 @@ interface SidebarProps {
 
 export default function Sidebar({ activeId, onSelect }: SidebarProps) {
   return (
-    <div className="flex flex-col gap-5 border-r-2 border-red-100 pr-[18px] h-full overflow-y-auto custom-scrollbar pt-4 pb-10 relative">
+    <div className="flex flex-col gap-5 border-r-2 border-red-100 pr-[18px] h-full overflow-y-auto custom-scrollbar pt-1 pb-10 relative">
       {/* Cột mốc ảo phía sau */}
       <div className="absolute left-[38px] top-6 bottom-6 w-1 bg-gradient-to-b from-gray-200 to-transparent -z-10 rounded-full"></div>
 

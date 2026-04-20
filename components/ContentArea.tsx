@@ -1,5 +1,6 @@
 import React from "react";
 import KhaiQuat from "./sections/KhaiQuat";
+import BaiHoc from "./sections/BaiHoc";
 import { sidebarItems } from "../data/contentData";
 
 interface ContentAreaProps {
@@ -14,6 +15,8 @@ export default function ContentArea({ activeId }: ContentAreaProps) {
     switch (activeId) {
       case "1":
         return <KhaiQuat />;
+      case "5":
+        return <BaiHoc />;
       default:
         return (
           <div className="flex flex-col items-center justify-center h-full text-gray-400 opacity-60">

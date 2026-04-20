@@ -30,8 +30,7 @@ export const khaiQuatData = {
     },
     {
       time: "25/8/1945",
-      content:
-        "Sài Gòn cũng hoàn toàn thuộc về lực lượng cách mạng.",
+      content: "Sài Gòn cũng hoàn toàn thuộc về lực lượng cách mạng.",
     },
     {
       time: "2/9/1945",
@@ -41,6 +40,49 @@ export const khaiQuatData = {
   ],
   conclusions: [
     "Chỉ trong vòng chưa đầy hai tuần, chính quyền trên toàn quốc đã về tay nhân dân.",
-    'Chính thức khai sinh nước Việt Nam Dân chủ Cộng hòa – nhà nước Công Nông đầu tiên ở Đông Nam Á.',
+    "Chính thức khai sinh nước Việt Nam Dân chủ Cộng hòa – nhà nước Công Nông đầu tiên ở Đông Nam Á.",
   ],
 };
+
+export const baiHocData = [
+  {
+    id: 1,
+    title: "BÀI HỌC 1",
+    subTitle: "Về chỉ đạo chiến lược:",
+    points: [
+      "Giương cao ngọn cờ giải phóng dân tộc, đặt nhiệm vụ này lên hàng đầu.",
+      "Giải quyết đúng đắn mối quan hệ độc lập dân tộc và cách mạng ruộng đất (gác lại khẩu hiệu cách mạng ruộng đất).",
+      "Tập trung giải quyết thành công mâu thuẫn chủ yếu: toàn dân tộc với đế quốc, phát xít.",
+    ],
+  },
+  {
+    id: 2,
+    title: "BÀI HỌC 2",
+    subTitle: "Về xây dựng lực lượng:",
+    points: [
+      "Lấy liên minh công nông làm nền tảng, khơi dậy tinh thần dân tộc.",
+      "Tập hợp mọi lực lượng yêu nước trong Mặt trận dân tộc thống nhất (Việt Minh).",
+      "Phân hóa, cô lập kẻ thù, lôi kéo các tầng lớp trung gian ngả về cách mạng.",
+    ],
+  },
+  {
+    id: 3,
+    title: "BÀI HỌC 3",
+    subTitle: "Về phương pháp cách mạng:",
+    points: [
+      "Nắm vững bạo lực cách mạng quần chúng, phát triển lực lượng chính trị và vũ trang.",
+      "Kết hợp đấu tranh chính trị với vũ trang, tiến hành khởi nghĩa từng phần làm đòn bẩy.",
+      'Chớp thời cơ "ngàn năm có một" tiến hành tổng khởi nghĩa giành chính quyền đồng loạt.',
+    ],
+  },
+  {
+    id: 4,
+    title: "BÀI HỌC 4",
+    subTitle: "Về xây dựng Đảng:",
+    points: [
+      "Xây dựng Đảng tiên phong của giai cấp công nhân, trung thành và gắn bó với nhân dân.",
+      "Vận dụng sáng tạo lý luận Mác - Lênin và tư tưởng Hồ Chí Minh vào thực tiễn.",
+      "Phát huy sự linh hoạt, chủ động của cấp ủy địa phương trong thực hiện khởi nghĩa.",
+    ],
+  },
+];
