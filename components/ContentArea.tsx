@@ -1,5 +1,6 @@
 import React from "react";
 import KhaiQuat from "./sections/KhaiQuat";
+import TinhChat from "./sections/TinhChat";
 import BaiHoc from "./sections/BaiHoc";
 import { sidebarItems } from "../data/contentData";
 
@@ -15,6 +16,8 @@ export default function ContentArea({ activeId }: ContentAreaProps) {
     switch (activeId) {
       case "1":
         return <KhaiQuat />;
+      case "3":
+        return <TinhChat />;
       case "5":
         return <BaiHoc />;
       default:

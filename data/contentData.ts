@@ -6,6 +6,23 @@ export const sidebarItems = [
   { id: "5", title: "V. BÀI HỌC KINH NGHIỆM" },
 ];
 
+export const tinhChatData = {
+  tinhChat:
+    "Cách mạng Tháng Tám năm 1945 mang tính chất của một cuộc cách mạng dân tộc dân chủ nhân dân. Đây là cuộc cách mạng do nhân dân tiến hành nhằm thực hiện hai nhiệm vụ lớn cùng lúc: Đánh đuổi ngoại xâm, giành độc lập cho đất nước và Xóa bỏ chế độ phong kiến, đem quyền lực về cho nhân dân.",
+  banChat: [
+    "Đây là một cuộc cách mạng giải phóng dân tộc. Nhiệm vụ hàng đầu của cách mạng lúc bấy giờ là đánh đổ ách thống trị của các thế lực ngoại xâm, giành lại độc lập cho dân tộc.",
+    "Cách mạng còn mang tính chất dân chủ sâu sắc. Sau khi giành được chính quyền, quyền lực được trao cho nhân dân. Lần đầu tiên, người dân trở thành chủ thể của quyền lực nhà nước.",
+  ],
+  vaiTro: [
+    "Vai trò lãnh đạo của giai cấp công nhân thông qua Đảng Cộng sản Đông Dương.",
+    "Đây là yếu tố quyết định đến sự thành công của cách mạng. Đảng đề ra chiến lược, biết tổ chức, tập hợp và lãnh đạo nhân dân đấu tranh đúng thời điểm.",
+  ],
+  conclusions: [
+    "Cuộc cách mạng đã dẫn đến việc thành lập nhà nước Việt Nam Dân chủ Cộng hòa, nhà nước công nông đầu tiên ở Đông Nam Á.",
+    "Chấm dứt chế độ phong kiến tồn tại hàng nghìn năm ở Việt Nam. Khép lại nhà nước quân chủ chuyên chế, mở ra một kỷ nguyên mới.",
+  ],
+};
+
 export const khaiQuatData = {
   general: [
     "Cách mạng Tháng Tám năm 1945 là một trong những bước ngoặt vĩ đại nhất trong lịch sử dân tộc Việt Nam.",

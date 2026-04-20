@@ -208,7 +208,7 @@ function ContentBox({ data, isActive, align }: ContentBoxProps) {
       <div className="w-full h-full bg-[#fdf5eb] rounded-[2rem] p-4 xl:p-6 shadow-md border border-[#edcdab] flex flex-col relative overflow-hidden group">
         <div className="relative z-10 w-full h-full overflow-y-auto pr-2 overflow-x-hidden [&::-webkit-scrollbar]:w-[6px] [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-[#d6ba9e] [&::-webkit-scrollbar-track]:bg-transparent">
           <div
-            className={`font-extrabold text-[#b91c1c] text-[11px] xl:text-[13px] mb-2 ${align === "left" ? "text-right" : "text-left"}`}
+            className={`font-extrabold text-[#b91c1c] text-[10px] xl:text-[12px] mb-2 ${align === "left" ? "text-right" : "text-left"}`}
           >
             {data.subTitle}
           </div>
@@ -216,7 +216,7 @@ function ContentBox({ data, isActive, align }: ContentBoxProps) {
             {data.points.map((point: string, i: number) => (
               <li
                 key={i}
-                className={`flex gap-3 text-[10px] xl:text-[12px] text-black items-start ${align === "left" ? "flex-row-reverse text-right" : "flex-row text-left"}`}
+                className={`flex gap-3 text-[9px] xl:text-[11px] text-black items-start ${align === "left" ? "flex-row-reverse text-right" : "flex-row text-left"}`}
               >
                 <div className="shrink-0 mt-[6px] xl:mt-[7px] w-[5px] h-[5px] xl:w-1.5 xl:h-1.5 rounded-full bg-black"></div>
                 <span className="leading-snug">{point}</span>

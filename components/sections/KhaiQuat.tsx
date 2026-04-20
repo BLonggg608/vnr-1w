@@ -156,7 +156,10 @@ export default function KhaiQuat() {
             })}
 
             {/* Nút Toggle Kết Luận PC */}
-            <div className="col-span-4 flex justify-center -mt-1 mb-1 z-10 transition-all duration-500">
+            <div
+              className={`col-span-4 flex justify-center -mt-1 mb-1 z-10 transition-all duration-500
+              ${activeMilestones.length === khaiQuatData.milestones.length ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-4 pointer-events-none hidden"}`}
+            >
               <button
                 onClick={() => setShowConclusions(!showConclusions)}
                 className="bg-red-50 hover:bg-red-100 text-red-700 border border-red-200 rounded-full p-1.5 shadow-sm transition-all hover:scale-110"
@@ -181,7 +184,7 @@ export default function KhaiQuat() {
             {/* Kết luận 1 (Dưới 3 mốc đầu) */}
             <div
               className={`col-span-3 flex items-center gap-3 bg-white border-2 border-red-700 rounded-xl p-3 shadow-md transition-all duration-700 origin-top
-                ${showConclusions ? "opacity-100 translate-y-0 h-auto" : "opacity-0 -translate-y-4 h-0 overflow-hidden pointer-events-none"}`}
+                ${showConclusions && activeMilestones.length === khaiQuatData.milestones.length ? "opacity-100 translate-y-0 h-auto" : "opacity-0 -translate-y-4 h-0 overflow-hidden pointer-events-none"}`}
             >
               <div className="text-red-700 shrink-0 flex items-center justify-center">
                 <svg
@@ -207,7 +210,7 @@ export default function KhaiQuat() {
             {/* Kết luận 2 (Dưới mốc thứ 4) */}
             <div
               className={`col-span-1 flex items-center gap-3 bg-white border-2 border-red-700 rounded-xl p-3 shadow-md transition-all duration-700 origin-top
-                ${showConclusions ? "opacity-100 translate-y-0 h-auto" : "opacity-0 -translate-y-4 h-0 overflow-hidden pointer-events-none"}`}
+                ${showConclusions && activeMilestones.length === khaiQuatData.milestones.length ? "opacity-100 translate-y-0 h-auto" : "opacity-0 -translate-y-4 h-0 overflow-hidden pointer-events-none"}`}
             >
               <div className="text-red-700 shrink-0 flex items-center justify-center">
                 <svg
@@ -269,7 +272,10 @@ export default function KhaiQuat() {
             </div>
 
             {/* Nút Toggle Kết Luận Mobile */}
-            <div className="flex justify-center w-full -mt-2 my-1 z-10 transition-all duration-500">
+            <div
+              className={`flex justify-center w-full -mt-2 my-1 z-10 transition-all duration-500
+              ${activeMilestones.length === khaiQuatData.milestones.length ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-4 pointer-events-none hidden"}`}
+            >
               <button
                 onClick={() => setShowConclusions(!showConclusions)}
                 className="bg-red-50 hover:bg-red-100 text-red-700 border border-red-200 rounded-full p-1.5 shadow-sm transition-all hover:scale-110"
@@ -294,7 +300,7 @@ export default function KhaiQuat() {
             {/* Conclusions Mobile */}
             <div
               className={`flex flex-col gap-3 w-full max-w-[320px] transition-all duration-700 origin-top
-              ${showConclusions ? "opacity-100 translate-y-0 h-auto" : "opacity-0 -translate-y-4 h-0 overflow-hidden pointer-events-none"}`}
+              ${showConclusions && activeMilestones.length === khaiQuatData.milestones.length ? "opacity-100 translate-y-0 h-auto" : "opacity-0 -translate-y-4 h-0 overflow-hidden pointer-events-none"}`}
             >
               {/* Kết luận 1 */}
               <div className="flex items-start gap-2 bg-white border-2 border-red-700 rounded-xl p-3 shadow-md w-full">
