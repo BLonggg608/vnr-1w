@@ -4,6 +4,7 @@ export const sidebarItems = [
   { id: "3", title: "III. TÍNH CHẤT" },
   { id: "4", title: "IV. Ý NGHĨA" },
   { id: "5", title: "V. BÀI HỌC KINH NGHIỆM" },
+  { id: "6", title: "VI. KẾT LUẬN" },
 ];
 
 export const tinhChatData = {
@@ -134,6 +135,37 @@ export const yNghiaData = {
         "Khẳng định tính đúng đắn của: Chủ nghĩa Mác – Lênin, Tư tưởng Hồ Chí Minh.",
         "Chứng minh một chân lý quan trọng: Cách mạng ở thuộc địa có thể thắng lợi trước chính quốc.",
         "Góp phần làm phong phú lý luận cách mạng giải phóng dân tộc.",
+      ],
+    },
+  ],
+};
+
+export const ketLuanData = {
+  title: "KẾT LUẬN",
+  items: [
+    {
+      title:
+        "1. Cách mạng Tháng Tám là kết quả của sự hội tụ hoàn hảo: Thiên thời – Địa lợi – Nhân hòa",
+      content: [
+        'Thiên thời (Yếu tố khách quan): Là sự thất bại của phát xít Nhật trước quân Đồng minh. Đây chính là "thời cơ vàng" tạo ra khoảng trống quyền lực tuyệt vời.',
+        "Địa lợi & Nhân hòa (Yếu tố chủ quan): Kết quả của sự chuẩn bị bền bỉ 15 năm của Đảng và khối đại đoàn kết toàn dân tộc được tập hợp vững chắc.",
+      ],
+    },
+    {
+      title:
+        "2. Là minh chứng cho: Sự nhạy bén, sáng suốt trong việc chớp thời cơ của Đảng",
+      content: [
+        "Thắng lợi này khẳng định chân lý: Thời cơ khách quan dù thuận lợi nhưng có thể bị bỏ lỡ nếu thiếu sự chuẩn bị chủ quan và bộ óc lãnh đạo tài tình.",
+        "Sự sáng suốt của Đảng thể hiện ở việc kiên quyết phát lệnh khởi nghĩa cực kỳ chuẩn xác: không quá sớm và cũng không quá muộn.",
+      ],
+    },
+    {
+      title:
+        "3. Khẳng định: Đây là “thời cơ ngàn năm có một” và đã được tận dụng hoàn hảo",
+      content: [
+        'Tại sao là "ngàn năm có một"? Mâu thuẫn đế quốc tự triệt tiêu, kẻ thù trực tiếp ngã gục khi kẻ khác chưa kịp vào. Khoảng trống này chỉ tồn tại hơn 2 tuần.',
+        "Sự tận dụng hoàn hảo: Đảng chủ động dùng 15 năm xây dựng thế trận. Khi thời cơ đến lập tức tung đòn quyết định đè bẹp sự kháng cự.",
+        "Giá trị lịch sử vĩ đại: Đập tan gông xiềng nô lệ của thực dân, phong kiến, đưa dân tộc bước vào kỷ nguyên độc lập, tự do.",
       ],
     },
   ],

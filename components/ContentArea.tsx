@@ -3,6 +3,7 @@ import KhaiQuat from "./sections/KhaiQuat";
 import TinhChat from "./sections/TinhChat";
 import BaiHoc from "./sections/BaiHoc";
 import YNghia from "./sections/YNghia";
+import KetLuan from "./sections/KetLuan";
 import { sidebarItems } from "../data/contentData";
 
 interface ContentAreaProps {
@@ -23,6 +24,8 @@ export default function ContentArea({ activeId }: ContentAreaProps) {
         return <YNghia />;
       case "5":
         return <BaiHoc />;
+      case "6":
+        return <KetLuan />;
       default:
         return (
           <div className="flex flex-col items-center justify-center h-full text-gray-400 opacity-60">
