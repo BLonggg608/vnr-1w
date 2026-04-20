@@ -9,7 +9,7 @@ export default function TinhChat() {
 
   return (
     <div className="w-full min-h-full flex flex-col items-center justify-start px-2 sm:px-4 lg:px-8 font-sans transition-all duration-700 ease-in-out pb-20">
-      <div className="w-full max-w-[800px] flex flex-col items-center gap-4 sm:gap-6 mt-4 sm:mt-8">
+      <div className="w-full max-w-[810px] flex flex-col items-center gap-4 sm:gap-6 mt-4 sm:mt-8">
         {/* === 1. TÍNH CHẤT === */}
         <div className="flex w-full justify-center transition-all duration-700">
           <div
@@ -45,7 +45,7 @@ export default function TinhChat() {
 
         {/* === 2. BẢN CHẤT === */}
         <div
-          className={`relative w-full flex flex-col items-center justify-center transition-all duration-700 min-h-[110px] sm:min-h-[130px]`}
+          className={`relative w-full flex flex-col items-center justify-center transition-all duration-700 min-h-[140px] sm:min-h-[160px]`}
         >
           <button
             onClick={() => setShowBanChat(!showBanChat)}
@@ -55,7 +55,7 @@ export default function TinhChat() {
           </button>
 
           {/* Desktop version (Left & Right boxes) */}
-          <div className="hidden md:flex w-full justify-center items-center gap-[90px] lg:gap-[110px] absolute left-0 right-0 h-[80%] px-0">
+          <div className="hidden md:flex w-full justify-center items-center gap-[90px] lg:gap-[110px] absolute left-0 right-0 h-[80%]">
             {/* Box 1 (Trái) */}
             <div
               className={`transition-all duration-900 ease-in-out origin-right overflow-hidden flex justify-end

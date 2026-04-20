@@ -69,7 +69,7 @@ export const baiHocData = [
     points: [
       "Giương cao ngọn cờ giải phóng dân tộc, đặt nhiệm vụ này lên hàng đầu.",
       "Giải quyết đúng đắn mối quan hệ độc lập dân tộc và cách mạng ruộng đất (gác lại khẩu hiệu cách mạng ruộng đất).",
-      "Tập trung giải quyết thành công mâu thuẫn chủ yếu: toàn dân tộc với đế quốc, phát xít.",
+      "Tập trung giải quyết thành công mâu thuẫn chủ yếu: toàn dân tộc với đế quốc, phát xít và tay sai nha.",
     ],
   },
   {
@@ -103,3 +103,38 @@ export const baiHocData = [
     ],
   },
 ];
+
+export const yNghiaData = {
+  title: "Ý nghĩa",
+  sections: [
+    {
+      title: "Đối với Việt Nam",
+      content: [
+        "Đập tan ách thống trị gần 100 năm của thực dân.",
+        "Chấm dứt chế độ phong kiến hàng nghìn năm.",
+        "Thành lập nhà nước mới: Việt Nam Dân chủ Cộng hòa.",
+        "Nhân dân Việt Nam từ thân phận nô lệ trở thành người làm chủ đất nước.",
+        "Đất nước bước vào kỷ nguyên mới: độc lập – tự do – tiến lên chủ nghĩa xã hội.",
+        "Đảng Cộng sản trở thành đảng cầm quyền.",
+        "Có công cụ nhà nước để xây dựng và bảo vệ đất nước.",
+      ],
+    },
+    {
+      title: "Đối với quốc tế",
+      content: [
+        "Là cuộc cách mạng giải phóng dân tộc đầu tiên thành công ở một nước thuộc địa.",
+        "Làm suy yếu hệ thống thuộc địa của chủ nghĩa đế quốc.",
+        "Mở đầu làn sóng giải phóng dân tộc trên toàn thế giới.",
+        "Cổ vũ mạnh mẽ các dân tộc bị áp bức: Châu Á, Châu Phi, Mỹ Latinh.",
+      ],
+    },
+    {
+      title: "Về lý luận cách mạng",
+      content: [
+        "Khẳng định tính đúng đắn của: Chủ nghĩa Mác – Lênin, Tư tưởng Hồ Chí Minh.",
+        "Chứng minh một chân lý quan trọng: Cách mạng ở thuộc địa có thể thắng lợi trước chính quốc.",
+        "Góp phần làm phong phú lý luận cách mạng giải phóng dân tộc.",
+      ],
+    },
+  ],
+};
