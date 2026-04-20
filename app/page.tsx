@@ -217,7 +217,7 @@ export default function App() {
         
         {/* Phần Title Content được căn lề trái (text-left) thống nhất trên mọi thiết bị */}
         <div className="mb-10 text-left">
-          <h2 className="text-3xl font-extrabold text-gray-900 tracking-tight">Quá trình `&quot`Tạo thế`&quot` & `&quot`Đón thời cơ`&quot`</h2>
+          <h2 className="text-3xl font-extrabold text-gray-900 tracking-tight">Quá trình &quot;Tạo thế&quot; & &quot;Đón thời cơ&quot;</h2>
           <p className="mt-2 text-lg text-gray-600">Phân tích sự kết hợp giữa sự chuẩn bị chủ quan (15 năm) và hoàn cảnh khách quan lịch sử.</p>
         </div>
 
