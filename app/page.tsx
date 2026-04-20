@@ -205,10 +205,10 @@ export default function App() {
               </p>
             </div>
           </div>
-          <div className="hidden sm:flex items-center gap-2 bg-black/20 px-4 py-2 rounded-full border border-red-500/30 backdrop-blur-sm">
+          {/* <div className="hidden sm:flex items-center gap-2 bg-black/20 px-4 py-2 rounded-full border border-red-500/30 backdrop-blur-sm">
             <GraduationCap className="w-5 h-5 text-yellow-200" />
             <span className="text-red-100 text-sm font-medium">Tài liệu: Giáo trình VNR202</span>
-          </div>
+          </div> */}
         </div>
       </header>
 
