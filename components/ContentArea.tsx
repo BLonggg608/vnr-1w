@@ -1,5 +1,6 @@
 import React from "react";
 import KhaiQuat from "./sections/KhaiQuat";
+import YeuToThoiCo from "./sections/YeuToThoiCo";
 import TinhChat from "./sections/TinhChat";
 import BaiHoc from "./sections/BaiHoc";
 import YNghia from "./sections/YNghia";
@@ -18,6 +19,8 @@ export default function ContentArea({ activeId }: ContentAreaProps) {
     switch (activeId) {
       case "1":
         return <KhaiQuat />;
+      case "2":
+        return <YeuToThoiCo />;
       case "3":
         return <TinhChat />;
       case "4":

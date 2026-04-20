@@ -7,6 +7,67 @@ export const sidebarItems = [
   { id: "6", title: "VI. KẾT LUẬN" },
 ];
 
+export const yeuToThoiCoData = {
+  part1: {
+    thienThoi: {
+      title: "Thiên thời",
+      topBoxes: [
+        "Nhật Bản đầu hàng (8/1945).",
+        "Chính quyền Trần Trọng Kim tê liệt.",
+        "Pháp chưa kịp quay lại.",
+        "Đồng minh chưa tiến vào.",
+      ],
+      bottomBoxes: [
+        "Tạo khoảng trống quyền lực đặc biệt.",
+        "Thiên thời xuất hiện đột ngột, ngắn ngủi.",
+        "Thời cơ ngàn năm có một.",
+      ],
+    },
+    diaLoi: {
+      title: "Địa lợi",
+      topBoxes: [
+        "Lực lượng chính trị quần chúng.",
+        "Lực lượng vũ trang cách mạng.",
+        "Căn cứ địa vững chắc (Việt Bắc).",
+      ],
+      bottomBoxes: [
+        "Rèn luyện qua 3 cao trào cách mạng.",
+        "Xây dựng chính quyền địa phương.",
+        "Sẵn sàng vùng dậy trên toàn quốc.",
+      ],
+    },
+    nhanHoa: {
+      title: "Nhân hoà",
+      topBoxes: [
+        "Mặt trận Việt Minh vững chắc.",
+        "Không phân biệt giai cấp, tôn giáo.",
+        "Trí thức, tư sản ủng hộ cách mạng.",
+        "Niềm tin sâu sắc của nhân dân.",
+      ],
+      bottomBoxes: [
+        "Toàn dân hội tụ, một lòng vùng dậy.",
+        "Cách mạng lan nhanh, ít đổ máu.",
+        "Sức mạnh vô địch đè bẹp kẻ thù.",
+      ],
+    },
+  },
+  part2: {
+    title: "Nghệ thuật chớp thời cơ của Đảng",
+    subtitle: "Sự lãnh đạo nhạy bén của Đảng là yếu tố quyết định thắng lợi",
+    middleBoxes: [
+      "Phân tích chính xác tình hình quốc tế và trong nước.",
+      "Đánh giá đúng thời điểm “chín muồi” của phong trào.",
+    ],
+    wideBox: "Quyết định phát động Tổng khởi nghĩa đúng khoảnh khắc lịch sử",
+    bottomLeft: "Đây là\nminh chứng",
+    bottomRight: [
+      "Tránh khởi nghĩa quá sớm khi Nhật chưa đầu hàng (tránh bị đàn áp).",
+      "Tránh khởi nghĩa quá muộn khi quân Đồng minh vào (tránh mất thời cơ).",
+      "Biến cơ hội khách quan thành sức mạnh và thắng lợi hiện thực.",
+    ],
+  },
+};
+
 export const tinhChatData = {
   tinhChat:
     "Cách mạng Tháng Tám năm 1945 mang tính chất của một cuộc cách mạng dân tộc dân chủ nhân dân. Đây là cuộc cách mạng do nhân dân tiến hành nhằm thực hiện hai nhiệm vụ lớn cùng lúc: Đánh đuổi ngoại xâm, giành độc lập cho đất nước và Xóa bỏ chế độ phong kiến, đem quyền lực về cho nhân dân.",
